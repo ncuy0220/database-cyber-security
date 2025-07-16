@@ -1,0 +1,21 @@
+{
+  "profile": {
+    "name": "Muhamad Rizkhi Fadillah",
+    "title": "Cyber Security",
+    "github": "https://github.com/MuhamadRizkhiFadillah"
+  },
+  "projects": [
+    {
+      "name": "Port Scanner",
+      "description": "Simple Python-based network port scanner",
+      "language": "Python",
+      "url": "https://github.com/MuhamadRizkhiFadillah/port-scanner"
+    },
+    {
+      "name": "Cyber Security Toolkit",
+      "description": "Collection of tools for basic penetration testing",
+      "language": "Python",
+      "url": "https://github.com/MuhamadRizkhiFadillah/cyber-security-toolkit"
+    }
+  ]
+}
